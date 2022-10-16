@@ -1,2 +1,2 @@
 # syrer-baser
-Denne "reposotorien" er for undervsining i fagene Kjemi 1 og Kjemi 2.
+Denne "reposotorien" er for undervisning i fagene Kjemi 1 og Kjemi 2.
